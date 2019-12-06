@@ -12,7 +12,8 @@ DPマッチングで小規模の単語音声認識を行う。
 ### 出力結果
 cygwin上で実行しました。  
 誤認識したものだけ詳細を出力しています。
-結果は
-![DPmatching_result.JPG](/DPmatching_result.JPG)  と画面上に出力されました。
+結果は、以下のように画面上に出力されました。  
+![DPmatching_result.JPG](/DPmatching_result.JPG)  
+
 正解率は[output001.txt](output001.txt)にも別途でファイル出力されています。
 
