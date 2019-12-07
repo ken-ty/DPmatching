@@ -14,7 +14,7 @@ DPマッチングの参考にしてください。
 cygwin上で実行しました。  
 誤認識したものだけ詳細を出力しています。
 結果は、以下のように画面上に出力されました。  
-![DPmatching_result.JPG](img/DPmatching_result.JPG)  
+![DPmatching_result.JPG](DPmatching_result.JPG)  
 
 正解率は[output001.txt](output001.txt)にも別途でファイル出力されています。
 
